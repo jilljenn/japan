@@ -32,7 +32,7 @@ Si vous payez au voyage, lorsque que vous voulez aller de X à Y, regardez combi
 
 ![Où utiliser la Pasmo.](http://www.pasmo.co.jp/en/use/img/index_ph03.png)
 
-Si vous utilisez la carte Pasmo, faites la simplement biper à l'entrée et à la sortie du métro. Un écran vous indiquera le montant restant disponible sur votre carte. Vous pouvez la recharger à volonter, ou payer la différence à la gare d'arrivée si le solde est insufisant.
+Si vous utilisez la carte Pasmo, faites la simplement biper à l'entrée et à la sortie du métro. Un écran vous indiquera le montant restant disponible sur votre carte. Vous pouvez la recharger à volonté, ou payer la différence à la gare d'arrivée si le solde est insufisant.
 
 Si vous allez trop loin, il n'y aura plus de caractères latins. Il faudra demander gentiment : « *sumimasen, kore wa Shibuya desu ka? arigatou* » (« Excusez-moi, il est bien écrit Shibuya ici ? Merci »)
 
