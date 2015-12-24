@@ -16,7 +16,7 @@ Pour acheter des titres de transport ou parfois des tickets à l'entrée des res
 
 Attention.
 
-![http://www.bento.com/pix/subway/tokyosubway2011.png](Carte du métro de Tokyo.)
+![Carte du métro de Tokyo.](http://www.bento.com/pix/subway/tokyosubway2011.png)
 
 Et encore, ça ce n'est que le métro. Il y a trop de lignes appartenant à trop compagnies différentes (JR ≠ métro ≠ Toei ≠ Chūō ≠ Yurikamome ≠ …), il est déconseillé de prendre des tickets journée. *Pay as you go.*
 
