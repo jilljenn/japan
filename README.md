@@ -8,11 +8,19 @@ Ces lignes sont destinées à deux normaliens se retrouvant au Japon sans yen ni
 
 Le Wi-Fi est disponible sur tous les quais des gares JR, parfois même métro, et à proximité de tout convini (FamilyMart, Lawson… ouverts 24 h / 24, ce seront vos meilleurs amis).
 
+### Acheter
+
+Pour acheter des titres de transport ou parfois des tickets à l'entrée des restaurants, il faut entrer la monnaie avant d'appuyer sur les boutons. Sinon ils ne sont tout simplement pas activés.
+
 ### Transport
 
 Il y a trop de lignes appartenant à trop compagnies différentes (JR ≠ subway ≠ Keihan ≠ …), il est déconseillé de prendre des tickets journée. *Pay as you go.*
 
+À chaque fois que vous voulez aller de X à Y, regardez combien il faut pour aller à Y et demandez poliment à la machine un ticket de ce montant (c'est un peu comme un système de timbres). N'oubliez pas d'*opt-in* et d'*opt-out*. Lorsque vous insérerez votre ticket pour sortir à Y, il ne ressortira pas, c'est normal et écologique.
+
 Si vous allez trop loin, il n'y aura plus de caractères latins. Il faudra demander gentiment : « *sumimasen, kore wa Shibuya desu ka? arigatou* » (« Excusez-moi, il est bien écrit Shibuya ici ? Merci »)
+
+Bonne nouvelle, Google Maps fonctionne sur le réseau japonais. Ça vous sauvera la vie.
 
 ## Tokyo
 
