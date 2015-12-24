@@ -53,7 +53,7 @@ Super bistrot : [Sakuratei](https://encrypted.google.com/maps/place/%E3%81%95%E3
 ### Akihabara
 
 Difficile de trouver quelque chose. Les blockbusters sont mis en avant, et plein de choses qu'on ne connaît pas encore en France sont mitraillées, ce qui est un peu frustrant :)  
-Mais en y passant du temps (on peut faire 3 jours dans le quartier sans faire deux fois le même magasin) il est possible de faire des trouvailles, aussi bien en culture otaku qu'en matériel electronique.
+Mais en y passant du temps (on peut faire 3 jours dans le quartier sans faire deux fois le même magasin) il est possible de faire des trouvailles, aussi bien en culture otaku qu'en matériel électronique.
 
 Aussi, attention : dans certains magasins, plus vous montez dans les étages, moins c'est autorisé pour les enfants.  
 Dans d'autres par contre, ce sont là que se trouvent les bonnes affaires (certains rdc sont des arnaques à touristes et proposent des prix exorbitants).
@@ -91,7 +91,7 @@ GUNDAM MOTHAFUCKAS
 
 ## Osaka
 
-- Himeji Castle, si vous avez le courage de faire le trajet. Sinon, l'Osaka Castle est une bonne alternative, plus facilement accessible.
+- Himeji Castle vaut le détour si vous êtes prêts à faire le trajet. Sinon, l'Osaka Castle est une bonne alternative, plus facilement accessible.
 - Shinsekai
 - Dotonbori
 - Den Den Town (un truc d'otaku, encore)
