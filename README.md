@@ -52,9 +52,30 @@ Super bistrot : [Sakuratei](https://encrypted.google.com/maps/place/%E3%81%95%E3
 
 ### Akihabara
 
-Difficile de trouver quelque chose. Les blockbusters sont mis en avant, et plein de choses qu'on ne connaît pas encore en France sont mitraillées, ce qui est un peu frustrant :)
+Difficile de trouver quelque chose. Les blockbusters sont mis en avant, et plein de choses qu'on ne connaît pas encore en France sont mitraillées, ce qui est un peu frustrant :)  
+Mais en y passant du temps (on peut faire 3 jours dans le quartier sans faire deux fois le même magasin) il est possible de faire des trouvailles, aussi bien en culture otaku qu'en matériel electronique.
 
-Aussi, attention : plus vous montez dans les étages, moins c'est autorisé pour les enfants.
+Aussi, attention : dans certains magasins, plus vous montez dans les étages, moins c'est autorisé pour les enfants.  
+Dans d'autres par contre, ce sont là que se trouvent les bonnes affaires (certains rdc sont des arnaques à touristes et proposent des prix exorbitants).
+
+### Shinjuku
+
+[Nakano](http://www.kanpai.fr/tokyo/nakano-broadway) à proximité
+
+### Roponggi
+
+Luida's bar (Bar à thème dragon quest)
+
+### [Odaiba](http://planetemaneki.com/10-choses-incontournables-a-faire-odaiba)
+GUNDAM MOTHAFUCKAS
+
+### [Asakusa](http://www.kanpai.fr/asakusa)
+- [Temple des chats :3](http://www.kanpai.fr/tokyo/imado-jinja)
+- [Kaminarimon / Senso-ji](http://www.kanpai.fr/tokyo/senso-ji)
+- [SkyTree](http://www.kanpai.fr/tokyo/tokyo-skytree)
+
+### Autre
+- Tsukiji (marché aux poissons). Y aller tôt. Y manger des sushi à midi.
 
 ## Kyoto
 
@@ -62,12 +83,40 @@ Aussi, attention : plus vous montez dans les étages, moins c'est autorisé pour
 
 - Fushimi Inari-taisha : un torī, puis un autre, puis un autre…
 - Ginkaku-ji est le pavillon d'argent (superbe jardin), Kinkaku-ji le pavillon d'or (superbe pavillon)
+- Ryoan-ji : jardin de cailloux
 - Nijō-jō : château
+- Fushimi inari taisha
 - Ponto-chō : le quartier avec le plus fort coût sur largeur du monde ; idéal pour un dîner romantique sur pilotis.
 - Musée international du manga
 
 ## Osaka
 
-- Himeji Castle
+- Himeji Castle, si vous avez le courage de faire le trajet. Sinon, l'Osaka Castle est une bonne alternative, plus facilement accessible.
+- Shinsekai
+- Dotonbori
+- Den Den Town (un truc d'otaku, encore)
+
+## Bouffe
+
+* Okonomiyaki (Osaka)
+* Takoyaki (Osaka)
+* Ramen
+* Onigiri
+* Sushi (Tsukiji)
+* Soba
+* Yakisoba
+* Udon
+* Chirashi
+* Nabe
+* Tempura
+* Curry japonais
+
+## Divers
+
+* Karaoke
+* Musée Ghibli
+* salle d'arcade
+* Faire un onsen/ryokan est une expérience intéressante, mais demande de s'y prendre à l'avance. Ceux-ci se situent dans les montagnes souvent à quelques heures des grandes villes.
+
 
 Bon courage.
