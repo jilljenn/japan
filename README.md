@@ -14,7 +14,11 @@ Pour acheter des titres de transport ou parfois des tickets à l'entrée des res
 
 ### Transport
 
-Il y a trop de lignes appartenant à trop compagnies différentes (JR ≠ subway ≠ Keihan ≠ …), il est déconseillé de prendre des tickets journée. *Pay as you go.*
+Attention.
+
+![http://www.bento.com/pix/subway/tokyosubway2011.png](Carte du métro de Tokyo.)
+
+Et encore, ça ce n'est que le métro. Il y a trop de lignes appartenant à trop compagnies différentes (JR ≠ métro ≠ Toei ≠ Chūō ≠ Yurikamome ≠ …), il est déconseillé de prendre des tickets journée. *Pay as you go.*
 
 À chaque fois que vous voulez aller de X à Y, regardez combien il faut pour aller à Y et demandez poliment à la machine un ticket de ce montant (c'est un peu comme un système de timbres). N'oubliez pas d'*opt-in* et d'*opt-out*. Lorsque vous insérerez votre ticket pour sortir à Y, il ne ressortira pas, c'est normal et écologique.
 
