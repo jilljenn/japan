@@ -4,9 +4,13 @@ Ces lignes sont destinées à deux normaliens se retrouvant au Japon sans yen ni
 
 ## Infos pratiques
 
+### Wi-Fi
+
+Le Wi-Fi est disponible sur tous les quais des gares JR, parfois même métro, et à proximité de tout convini (FamilyMart, Lawson… ouverts 24 h / 24, ce seront vos meilleurs amis).
+
 ### Transport
 
-Il y a trop de lignes appartenant à trop compagnies différentes (JR ≠ subway ≠ Keihan ≠ …), il est déconseillé de prendre des tickets journées. *Pay as you go.*
+Il y a trop de lignes appartenant à trop compagnies différentes (JR ≠ subway ≠ Keihan ≠ …), il est déconseillé de prendre des tickets journée. *Pay as you go.*
 
 Si vous allez trop loin, il n'y aura plus de caractères latins. Il faudra demander gentiment : « *sumimasen, kore wa Shibuya desu ka? arigatou* » (« Excusez-moi, il est bien écrit Shibuya ici ? Merci »)
 
