@@ -16,7 +16,8 @@ Pour acheter des titres de transport ou parfois des tickets à l'entrée des res
 
 C'est impossible, malheureux ! Les adresses sont données sous la forme de trois chiffres ; le premier correspond au numéro du bloc, le deuxième à l'ordre de construction au cadastre, et le troisième je ne sais plus. Rien n'est consécutif.
 
-Demandez votre chemin, les Japonais, les citoyens les plus polis du monde, vous seront d'une grande aide. N'oubliez pas de les remercier.
+Demandez votre chemin, les Japonais, les citoyens les plus polis du monde, vous seront d'une grande aide. N'oubliez pas de les remercier.  
+Si besoin, n'hésitez pas à demander votre chemin à un policier. Ils connaissent souvent très bien leur quartier et seront ravis de vous aider.
 
 ### Transport
 
@@ -24,9 +25,14 @@ Attention.
 
 ![Carte du métro de Tokyo.](http://www.bento.com/pix/subway/tokyosubway2011.png)
 
-Et encore, ça ce n'est que le métro. Il y a trop de lignes appartenant à trop compagnies différentes (JR ≠ métro ≠ Toei ≠ Chūō ≠ Yurikamome ≠ …), il est déconseillé de prendre des tickets journée. *Pay as you go.*
+Et encore, ça ce n'est que le métro. Il y a trop de lignes appartenant à trop compagnies différentes (JR ≠ métro ≠ Toei ≠ Chūō ≠ Yurikamome ≠ …), il est déconseillé de prendre des tickets journée.  
+Les moyens de paiement les plus simples sont la [Pasmo](http://www.pasmo.co.jp/en/), carte rechargeable qui fonctionne avec presque tous les métros et bus, ou de payer à chaque voyage.
 
-À chaque fois que vous voulez aller de X à Y, regardez combien il faut pour aller à Y et demandez poliment à la machine un ticket de ce montant (c'est un peu comme un système de timbres). N'oubliez pas d'*opt-in* et d'*opt-out*. Lorsque vous insérerez votre ticket pour sortir à Y, il ne ressortira pas, c'est normal et écologique.
+Si vous payez au voyage, lorsque que vous voulez aller de X à Y, regardez combien il faut pour aller à Y et demandez poliment à la machine un ticket de ce montant (c'est un peu comme un système de timbres). N'oubliez pas d'*opt-in* et d'*opt-out*. Lorsque vous insérerez votre ticket pour sortir à Y, il ne ressortira pas, c'est normal et écologique.
+
+![Où utiliser la Pasmo.](http://www.pasmo.co.jp/en/use/img/index_ph03.png)
+
+Si vous utilisez la carte Pasmo, faites la simplement biper à l'entrée et à la sortie du métro. Un écran vous indiquera le montant restant disponible sur votre carte. Vous pouvez la recharger à volonté, ou payer la différence à la gare d'arrivée si le solde est insuffisant.
 
 Si vous allez trop loin, il n'y aura plus de caractères latins. Il faudra demander gentiment : « *sumimasen, kore wa Shibuya desu ka? arigatou* » (« Excusez-moi, il est bien écrit Shibuya ici ? Merci »)
 
