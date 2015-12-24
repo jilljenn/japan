@@ -36,7 +36,7 @@ Dès que la nuit tombe (à 16 h 30, [je ne déconne pas](http://www.sunrise-and-
 
 Ce superbe temple, dans le vieux quartier d'Asakusa, a été récemment rénové.
 
-Sur plusieurs centaines de mètres, vous trouverez toutes sortes de goodies (baguettes, estampes, [taiyaki](https://en.wikipedia.org/wiki/Taiyaki) artisanaux : les gâteaux en forme de poisson, fourrés à la pâte de haricot rouge *azuki*).
+Entre la station Asakusa et le temple, il y a la superbe [Nakamise Street](https://goo.gl/maps/57Adn88kQCk) : sur 250 m, vous trouverez toutes sortes de goodies (baguettes, estampes, [taiyaki](https://en.wikipedia.org/wiki/Taiyaki) artisanaux : les gâteaux en forme de poisson, fourrés à la pâte de haricot rouge *azuki*).
 
 ## Kyoto
 
