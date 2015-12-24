@@ -2,6 +2,12 @@
 
 Ces lignes sont destinées à deux normaliens se retrouvant au Japon sans yen ni savoir parler japonais.
 
+## Infos pratiques
+
+### Transport
+
+Il y a trop de lignes appartenant à trop compagnies différentes (JR ≠ subway ≠ Keihan ≠ …), il est déconseillé de prendre des tickets journées. *Pay as you go.*
+
 ## Tokyo
 
 ### Shibuya crossing
