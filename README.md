@@ -2,6 +2,8 @@
 
 Ces lignes sont destinées à deux normaliens se retrouvant au Japon sans yen ni savoir parler japonais.
 
+Auteurs : Jill-Jênn Vie, Antoine Becquet
+
 ## Infos pratiques
 
 ### Wi-Fi
@@ -68,7 +70,7 @@ Dans d'autres par contre, ce sont là que se trouvent les bonnes affaires (certa
 
 [Nakano](http://www.kanpai.fr/tokyo/nakano-broadway) à proximité
 
-### Roponggi
+### Roppongi
 
 Luida's bar (Bar à thème dragon quest)
 
@@ -91,9 +93,14 @@ GUNDAM MOTHAFUCKAS
 - Ginkaku-ji est le pavillon d'argent (superbe jardin), Kinkaku-ji le pavillon d'or (superbe pavillon)
 - Ryoan-ji : jardin de cailloux
 - Nijō-jō : château
-- Fushimi inari taisha
 - Ponto-chō : le quartier avec le plus fort coût sur largeur du monde ; idéal pour un dîner romantique sur pilotis.
 - Musée international du manga
+
+### Se nourrir
+
+- [Teramachi Street](https://www.google.com/maps/@35.0088827,135.7671739,3a,75y,80.58h,70.82t/data=!3m6!1e1!3m4!1sK7rsLckPyZPQpwz6zFxTzg!2e0!7i13312!8i6656?hl=fr) : bentō à midi pour 500 ¥ (< 4 €), ou vendeurs ambulants d'onigiri
+- Tsukemen : les ramen de Kyoto (spécialité)
+- Yoshinoya : gyūdon pas chers (bœuf à l'oignon sur riz)
 
 ## Osaka
 
@@ -123,6 +130,5 @@ GUNDAM MOTHAFUCKAS
 * Musée Ghibli
 * salle d'arcade
 * Faire un onsen/ryokan est une expérience intéressante, mais demande de s'y prendre à l'avance. Ceux-ci se situent dans les montagnes souvent à quelques heures des grandes villes.
-
 
 Bon courage.
