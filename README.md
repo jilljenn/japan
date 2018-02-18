@@ -1,6 +1,6 @@
-# Deux normaliens au Japon
+# Guide à l'arrache pour le Japon
 
-Ces lignes sont destinées à deux normaliens se retrouvant au Japon sans yen ni savoir parler japonais.
+> Le 24 décembre 2015, Didier et Hadrien sont allés au Japon, sans yen ni savoir parler japonais. Ces pages leurs étaient initialement destinées. Faites-en bon usage !
 
 Auteurs : Jill-Jênn Vie, Antoine Becquet
 
@@ -8,9 +8,13 @@ Auteurs : Jill-Jênn Vie, Antoine Becquet
 
 ### Wi-Fi
 
-Le Wi-Fi est disponible sur tous les quais des gares JR, parfois même métro, et à proximité de tout convini (FamilyMart, Lawson… ouverts 24 h / 24, ce seront vos meilleurs amis).
+Le Wi-Fi est disponible sur tous les quais des gares JR, Tokyo Metro, et à proximité de tout convini (7-Eleven, FamilyMart, Lawson… ouverts 24/7, ce seront vos meilleurs amis).
 
-### Acheter
+### Payer
+
+![7-Eleven](img/711.jpg)
+
+Pour retirer de l'argent, tous les ATM n'accepteront probablement pas votre carte. Mais chaque 7-Eleven a un ATM 7-Bank qui a de fortes chances de fonctionner. Les frais seront moindres que si vous changez de l'argent en France (source : [TransferWise](https://transferwise.com/au/blog/atms-in-japan)).
 
 Pour acheter des titres de transport ou parfois des tickets à l'entrée des restaurants, il faut entrer la monnaie avant d'appuyer sur les boutons. Sinon ils ne sont tout simplement pas activés.
 
@@ -25,7 +29,7 @@ Si besoin, n'hésitez pas à demander votre chemin à un policier. Ils connaisse
 
 Attention.
 
-![Carte du métro de Tokyo.](http://www.bento.com/pix/subway/tokyosubway2011.png)
+![Carte du métro de Tokyo.](img/subway.jpg)
 
 Et encore, ça ce n'est que le métro. Il y a trop de lignes appartenant à trop compagnies différentes (JR ≠ métro ≠ Toei ≠ Chūō ≠ Yurikamome ≠ …), il est déconseillé de prendre des tickets journée.  
 Les moyens de paiement les plus simples sont la [Pasmo](http://www.pasmo.co.jp/en/), carte rechargeable qui fonctionne avec presque tous les métros et bus, ou de payer à chaque voyage.
