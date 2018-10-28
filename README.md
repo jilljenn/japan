@@ -122,7 +122,6 @@ GUNDAM MOTHAFUCKAS
 ## Kyoto
 
 - [How Not to Be a Tourist in Kyoto](http://www.citylab.com/navigator/2015/08/how-not-to-be-a-tourist-in-kyoto/401714/)
-
 - Fushimi Inari-taisha : un torī, puis un autre, puis un autre…
 - Ginkaku-ji est le pavillon d'argent (superbe jardin), Kinkaku-ji le pavillon d'or (superbe pavillon)
 - Ryoan-ji : jardin de cailloux
@@ -142,6 +141,14 @@ GUNDAM MOTHAFUCKAS
 - Shinsekai
 - Dotonbori
 - Den Den Town (un truc d'otaku, encore)
+
+## Nara
+
+- [Nara Park](http://nara-park.com/en/)
+- [Kasuga-taisha](http://www.kasugataisha.or.jp/about/index_fr.html)
+- [Todai-ji](http://www.todaiji.or.jp/english/index.html)
+- [Toshodai-ji](http://www.toshodaiji.jp/english/index.html)
+- [Yakushi-ji](http://www.nara-yakushiji.com/)
 
 ## Bouffe
 
