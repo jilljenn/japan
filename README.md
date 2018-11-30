@@ -1,8 +1,10 @@
 # Guide à l'arrache pour le Japon
 
-> Le 24 décembre 2015, Didier et Hadrien sont allés au Japon, sans yen ni savoir parler japonais. Ces pages leurs étaient initialement destinées. Faites-en bon usage !
+> *Le 24 décembre 2015, Didier et Hadrien sont allés au Japon, sans yen ni savoir parler japonais. Ces pages leurs étaient initialement destinées. Faites-en bon usage !*
 
-Auteurs : Jill-Jênn Vie, Antoine Becquet, Michel Blockelet
+Auteurs : Jill-Jênn Vie, Antoine Becquet, Michel Blockelet, Tomoko Kozu
+
+**BREAKING NEWS!** Les [érables rougissent](https://www.japan-guide.com/blog/koyo18/181127_tokyo.html) à Tokyo ! Peut-être voudrez-vous vous rendre au Rikugien, Koishikawa Korakuen ou au Shinjuku Gyoen.
 
 ## Infos pratiques
 
