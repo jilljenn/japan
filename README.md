@@ -4,8 +4,6 @@
 
 Auteurs : Jill-Jênn Vie, Antoine Becquet, Michel Blockelet, Tomoko Kozu
 
-**BREAKING NEWS!** Les [érables rougissent](https://www.japan-guide.com/blog/koyo18/181127_tokyo.html) à Tokyo ! Peut-être voudrez-vous vous rendre au Rikugien, Koishikawa Korakuen ou au Shinjuku Gyoen.
-
 ## Infos pratiques
 
 ### Convinis
@@ -30,7 +28,7 @@ Pour acheter des titres de transport ou parfois des tickets à l'entrée des res
 
 ### Acheter tax-free
 
-Dans la plupart des boutiques, vous pouvez acheter Tax-free, à partir de 5000 JPY. Pour ce faire, il vous faut votre passeport; un reçu y sera attaché, et vous paierez directement le montant sans taxe. En principe, la douane contrôle lors de votre départ que vous avez toujours les biens mentionnés sur ces reçus et vous demande de payer la taxe si vous ne les avez plus; en pratique, il n'y a jamais personne pour contrôler (surtout que le passage à la douane est après avoir enregistré vos bagages...).
+Dans la plupart des boutiques, vous pouvez acheter Tax-free, à partir de 5000 JPY. Pour ce faire, il vous faut votre passeport ; un reçu y sera attaché, et vous paierez directement le montant sans taxe. En principe, la douane contrôle lors de votre départ que vous avez toujours les biens mentionnés sur ces reçus et vous demande de payer la taxe si vous ne les avez plus ; en pratique, il n'y a jamais personne pour contrôler (surtout que le passage à la douane est après avoir enregistré vos bagages…).
 
 Dans beaucoup de cas, vous devrez d'abord acheter vos biens, puis passer à un comptoir spécial (soit au sein de la boutique, soit quelque part dans le centre commercial) pour qu'ils s'occupent de vous rembourser la taxe sous présentation du reçu et des biens achetés.
 
@@ -100,7 +98,7 @@ Difficile de trouver quelque chose. Les blockbusters sont mis en avant, et plein
 Mais en y passant du temps (on peut faire 3 jours dans le quartier sans faire deux fois le même magasin) il est possible de faire des trouvailles, aussi bien en culture otaku qu'en matériel électronique.
 
 Aussi, attention : dans certains magasins, plus vous montez dans les étages, moins c'est autorisé pour les enfants.  
-Dans d'autres par contre, ce sont là que se trouvent les bonnes affaires (certains rdc sont des arnaques à touristes et proposent des prix exorbitants).
+Dans d'autres par contre, ce sont là que se trouvent les bonnes affaires (certains RDC sont des arnaques à touristes et proposent des prix exorbitants).
 
 ### Shinjuku
 
@@ -167,11 +165,19 @@ GUNDAM MOTHAFUCKAS
 * Tempura
 * Curry japonais
 
+### Chaînes
+
+Au Japon, beaucoup de restaurants sont des chaînes, mais souvent de bonne qualité ! Je recommande :
+
+1. Jojoen (wagyu à bas prix, certains sont ouverts le dimanche)
+2. Hoshino Coffee (leurs pancakes de 20 minutes)
+3. Ice Monster (bon certes, c'est taïwanais)
+
 ## Divers
 
 * Karaoke
 * Musée Ghibli
-* salle d'arcade
+* Salle d'arcade
 * Faire un onsen/ryokan est une expérience intéressante, mais demande de s'y prendre à l'avance. Ceux-ci se situent dans les montagnes souvent à quelques heures des grandes villes.
 
 Bon courage.
